@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two petitions presented to the supreame authority of the nation from thousands of the lords, owners, and commoners of Lincolneshire; against the Old Court-Levellers, or propriety-destroyers, the prerogative undertakers.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48488</idno><idno type="EEBO-CITATION">99834556</idno>
+  <idno type="VID">39057</idno>
+  <idno type="EEBO-PROQUEST">2240913646</idno>
+  
+            <idno type="STC">Wing L2194</idno>
+            <idno type="STC">ESTC R224157</idno>
+            <idno type="PROQUEST">99834556</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834556e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1813:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two petitions presented to the supreame authority of the nation from thousands of the lords, owners, and commoners of Lincolneshire; against the Old Court-Levellers, or propriety-destroyers, the prerogative undertakers.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to John Lilburne.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Levellers --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39057:1"/>
+            <p>TWO PETITIONS Presented to the Supreame Authority OF THE NATION, FROM Thousands of the LORDS, OW<g ref="char:EOLhyphen"/>NERS, and COMMONERS of <hi>Lin<g ref="char:EOLhyphen"/>colneshire;</hi> against the <hi>Old Court-Level<g ref="char:EOLhyphen"/>lers, or Propriety-Destroyers, the Prerogative Ʋndertakers.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. B.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:39057:2"/>
+            <pb n="1" facs="tcp:39057:2"/>
+            <opener>
+               <salute>To the Supreame Authority of the Nation, in PARLIAMENT Assembled:</salute>
+            </opener>
+            <head>The Humble Petition of divers Freemen of <hi>England,</hi> whose names are hereunto annexed, Inhabitants in the County of <hi>Lincoln,</hi> in the behalf of themselves, and others the Lords, Owners, and Commoners of, and in the Fennes belonging to <hi>Holland</hi> and <hi>Kesteven,</hi> in the said County, lying between <hi>Bourne</hi> and <hi>Kyme,</hi>
+            </head>
+            <p>Sheweth:</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat by the wisdome, hazards, and industry of our prudent Ancestors, the great Char<g ref="char:EOLhyphen"/>ter of <hi>England</hi> was gained and confirmed, In the 29. <hi>chap.</hi> of which it is enacted, That no Freeman shall be taken, impri<g ref="char:EOLhyphen"/>soned, or be disseized of his Freehold or Liberties, or free Customes, or be outlawed or exiled, or otherwise destroyed; nor past upon, nor condemned, but by lawfull Judgement of his Peeres, or by the Law of the Land. And by the 15. and 16. <hi>chap.</hi> of which it is enacted, That no Freeman shall be distrained or compelled to make or maintaine Banks or Bridges, but what were in old time, and by such as were of right accustomed thereunto: For the well regulating and keeping in repaire of which, by future Statutes it is commanded, That Commissions be made in due forme to sufficient persons, to be Justices in every County of <hi>England;</hi> and they are authorized, (in pursuance of the intent of <hi>Magna Charta</hi>) to survey and inquire by Juries of the Neighbourhood, and to execute
+<pb n="2" facs="tcp:39057:3"/>and do that which shall be needfull and just, according to Law (as appeares by the Statutes of 25 <hi>E.</hi> 3. <hi>cap.</hi> 2. and the 1 <hi>H.</hi> 4. <hi>cap.</hi> 12. and 6 <hi>H.</hi> 6. <hi>cap.</hi> 5. and 8 <hi>H.</hi> 6. <hi>cap.</hi> 2. and 12 <hi>Ed.</hi> 4. <hi>cap.</hi> 7. and 6 <hi>H.</hi> 8. <hi>cap.</hi> 10. All which are confirmed by the Commission of Sewers, contained in the Statute of the 23 <hi>H.</hi> 8. <hi>cap.</hi> 5. which expresly tyes up all the said Commissioners of Sewers, to proceed according to the Lawes, Customes, and Statutes of the Kingdome, and not otherwise; which is confirmed by the 3 and 4 <hi>Ed.</hi> 6. <hi>cap.</hi> 8. yea and by the Statute of Improvement, of the 43 <hi>Eliz. cap.</hi> 11. in which there is the first mention of an Undertaker; It is enacted, That the Lord or Lords, as well Bodies Politique or Corporate, as any other person or persons whatsoever, of all and every the Wasts and Commons aforesaid, and the most of the Commoners for their particular Commons; and likewise the Owners, and such as have or shall have in severall surrounded grounds, lying within or neare the same, may contract or bargaine for part of such Commons, Wasts, and severals aforesaid, with such as will undertake the drayning, and keeping dry perpetually the said grounds: Which Contract, Bar<g ref="char:EOLhyphen"/>gaine, and Conveyances thereupon made, shall be good and availeable in Law, to all constructions and purposes, against the said Lords of the said Soyle, &amp;c. Provided that such Contract, Bargaine, Assignement, and Conveyances, be by writing Indented, Sealed, and delivered by the most part of such Commoners, and to the use of the Underta<g ref="char:EOLhyphen"/>kers, &amp;c. And provided, That such Undertakers shall lay claime to nothing else, but onely that which is so bargain<g ref="char:EOLhyphen"/>ed or contracted for in the forme aforesaid: The effect and meaning of which Statute, is pursued by the Statute of the 4 <hi>Jac. chap.</hi> 8. in that Contract, Covenant, and Agree<g ref="char:EOLhyphen"/>ment, made by Indenture betweene the Owners of the Marshes of <hi>Lesues</hi> and <hi>Fants</hi> in the C<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unty of <hi>Kent,</hi> and <hi>William Burrell</hi> of <hi>Ratcliffe,</hi> the Undertaker; and by the Statute of the 7 <hi>Jac. chap.</hi> 20. which provides for the reco<g ref="char:EOLhyphen"/>very of a great quantity of ground lately surrounded in
+<pb n="3" facs="tcp:39057:3"/>
+               <hi>Norfolk</hi> and <hi>Suffolk</hi> by the Sea; those two forementioned indubitable Priviledges, of the indifferency of the Com<g ref="char:EOLhyphen"/>missioners themselves, and the manner of their proceed<g ref="char:EOLhyphen"/>ing by Juries of good and lawfull men of the Neighbour<g ref="char:EOLhyphen"/>hood, are preserved to the free People therein concerned: Yet notwithstanding all the Priviledges of the aforesaid <hi>Magna Charta,</hi> and the other recited Statutes, <hi>Robert</hi> late Earle of <hi>Lindsey,</hi> Sir <hi>William Killagrew, Robert Long,</hi> now Secretary to <hi>Charles Stewart,</hi> Sonne to the late King, and divers other projecting Undertakers, by bribing the late King and divers Lords of the Councell (as hath been fully proved) with a designe to levell and destroy the said Anti<g ref="char:EOLhyphen"/>ent and good Lawes and Liberties of <hi>England,</hi> and to overthrow our proprieties. Which Actions in the late Ship-money, Judges and the Earle of <hi>Strafford</hi> were voted by the Parliament in 1640. to be Treason) procured from the late King (as by his Letter of the 12. of <hi>Febr.</hi> in the eighth yeare of his Reigne appeareth,) A Preroga<g ref="char:EOLhyphen"/>tive Power and Authority, by their owne wils, and with<g ref="char:EOLhyphen"/>out our consents to draine us, and to lay such a Tax upon us the Lords, Owners, and Commoners aforesaid, as (if it be paid) may defray the charge of the Worke, and recom<g ref="char:EOLhyphen"/>pence the Undertakers for their paines, without any re<g ref="char:EOLhyphen"/>spect to the interest of particular persons, or consulting the Owners; where by their owne single view, without any Inquisition or Verdict of Jurors) they finde our Land so surrounded or annoyed with water, that it shall receive benefit by the draining; And that the judgement of the said proiecting Undertakers (being both Judges and Par<g ref="char:EOLhyphen"/>ties) must be their rule of proceeding, and not the con<g ref="char:EOLhyphen"/>sent of the Owner, or the Rules of the Law. These are the expresse words of the Letter; In pursuance of which illegall and Prerogative power, they (like so many armed theeves) tooke possession of large proportions of our pro<g ref="char:EOLhyphen"/>priety, Lands, and Estates, and by force of Armes would have kept it; which we legally maintaining, had divers of our friends and associates murdered; and our proceedings
+<pb n="4" facs="tcp:39057:4"/>at Law damm'd up by Councell-Table Orders, and left us either in Law or reason, no other remedy but an Ap<g ref="char:EOLhyphen"/>peale to the House of Commons: Upon the hearing and full examining of which businesse, in the particular Case of Master <hi>Robert Barkham,</hi> they thought it just upon the third of <hi>February,</hi> 1640. to vote, That the severall Impri<g ref="char:EOLhyphen"/>sonments of Master <hi>Barkham,</hi> by vertue of severall Or<g ref="char:EOLhyphen"/>ders from the Councell Board, is a grievance, and illegall.</p>
+            <p>Resolved, &amp;c.</p>
+            <p>
+               <hi>That reparation is fit to be given to Master</hi> Bark<g ref="char:EOLhyphen"/>ham, <hi>for his severall commitments, by those Lords of the Councell that have subscribed to his commitments.</hi>
+            </p>
+            <p>Resolved, &amp;c.</p>
+            <p>
+               <hi>That Sir</hi> William Killagrew, <hi>and Sir</hi> Anthony Thomas, <hi>shall contribute towards those Reparations to be given to Master</hi> Barkham.</p>
+            <p>And upon the tenth of <hi>February,</hi> 1640. It was resolved upon the Question,</p>
+            <p>
+               <hi>That Master</hi> Barkham <hi>shall be at liberty to proceed at Common Law touching the Premisses, and the Injun<g ref="char:EOLhyphen"/>ction made in the Court of Dutchy to be dissolved.</hi>
+            </p>
+            <p>So here in his particular Case, the Locks and Bolts fast<g ref="char:EOLhyphen"/>ened upon the Law were taken off, and we left to enjoy our hereditarie Priviledges, or proper remedie at the Law. And besides this particular Case of his, the then House of Commons, in their Grand and first Remonstrance of the state of the Kingdome, and of the roots and causes of all the miseries possessing this Nation, enumerate the violence and injustice done to Your Petitioners, as one of the grand Grievances, Projects, injustice, Oppression and Violence, that brake in upon the Nation, without any restraint or moderation: And in Page 7. thus particularly expresse it: Large quantities of Common and severall Grounds have
+<pb n="5" facs="tcp:39057:4"/>been taken from the Subject, by colour of the Statute of Improvement, and by abuse of the Commission of Sewers, without their consent, and against it. Yea and upon the Report of Sir <hi>Guy Palmes,</hi> the 29 <hi>July,</hi> 1641. of the Earle of <hi>Lindsey</hi> procuring an Order from the House of Lords, to stop us of the benefit of the Law against him and his As<g ref="char:EOLhyphen"/>sociates, the House resolved, That the said Order is a breach of the Priviledge of that House (the Cause there de<g ref="char:EOLhyphen"/>pending before them) and that the Commons were not bound by the said Orden.</p>
+            <p>Our whole businesse being long since examined before a Committee of Parliament, where Master <hi>Ellis</hi> had the Chaire; we were in hopes long since upon the Report thereof, to have exemplary Justice done upon our draining projecting Adversaries, as destroyers of propriety; with which if they had gone on, and so have taken away our E<g ref="char:EOLhyphen"/>states and Substance, we had beene no more a People; but the Warres coming on (in which divers of them had no lit<g ref="char:EOLhyphen"/>tle share, as beginners thereof) we waited with a patient expectation of the full enjoyment of all the benefits of your Primitive Declarations, for the full securing of our Liberties and Properties; abundance of us having beene active and faithfull in Armes, in yours and the Nations Service. But contrariwise, we by sad experience finde, that our Prerogative Projectors and Destroyers, that had long endeavoured with their swords &amp;c. to cut your and our throats; after the Warres are ended, assume unto them<g ref="char:EOLhyphen"/>selves the impudence and boldnesse beyond our imagina<g ref="char:EOLhyphen"/>tions, lately to petition this Honourable House with fun<g ref="char:EOLhyphen"/>dry false suggestions, and pretence of Title to 14000 Acres of our said Fennes, for their endeavouring as afore<g ref="char:EOLhyphen"/>said, to draine us contrary to Law, and against our con<g ref="char:EOLhyphen"/>sents; which are our Properties, and therefore without our consents cannot upon any pretence whatsoever be ta<g ref="char:EOLhyphen"/>ken from us (as largely proved and declared by those two notable printed Arguments of Judge <hi>Crook</hi> and Judge <hi>Hut<g ref="char:EOLhyphen"/>ton,</hi> in the Case of Ship-money; as also by your remarka<g ref="char:EOLhyphen"/>ble
+<pb n="6" facs="tcp:39057:5"/>Votes thereunto annexed; as also by the Act of the seventeenth of the late King, Declaring the Ship-Money to be illegall; as also by <hi>Naboth's</hi> preserving his Title to his Vineyard, against King <hi>Ahab,</hi> although he would have given him a better for it, or the worth of it in Money; hoping in our absence by the said Petition to have intru<g ref="char:EOLhyphen"/>ded, as formerly they have done, into our Antient and undoubted Right and Inheritance, legally preserved by us under your protection, at a vast charge. Now for<g ref="char:EOLhyphen"/>asmuch as by the whole Current of all your Declarati<g ref="char:EOLhyphen"/>ons, the end of the late Warres was to maintaine, de<g ref="char:EOLhyphen"/>fend, and secure our Properties, and Fundamentall Le<g ref="char:EOLhyphen"/>gall Rights, and not in the least to destroy them: And in your Declarations of the second of <hi>November,</hi> 1642. 1 <hi>Part Booke Dec. pag.</hi> 693. You declare your abhorren<g ref="char:EOLhyphen"/>cy and detestation of the Kings Charge laid upon you That you will dispose of the Peoples Fortunes and Estates by your owne Votes, contrary to the Law of Propriety. And in your Declaration of the seventeenth of <hi>Aprill,</hi> 1646. 2 <hi>Part, Booke, Dec. fol.</hi> 879. You declare, That al<g ref="char:EOLhyphen"/>though the necessity of Warre hath stopped the usuall course of Justice, enforced the Parliament for the pre<g ref="char:EOLhyphen"/>servation of this State, to impose and require many great and unusuall Payments from the good Subjects of this Kingdome, and to take extraordinary waies for pro<g ref="char:EOLhyphen"/>curing of Monies for their many pressing occasions; It having pleased God to reduce our Affairee into a more hopefull condition then heretofore; We do Declare, That We will not, nor any by colour of any Authority derived from us, shall not interrupt the ordinary course of Justice, in the severall Courts and Judicatories of this Kingdom, nor intermeddle in cases of private interest, otherwhere determinable, unless it be in case of <hi>Male Administrationem</hi> of Justice, wherein we shall see and provide that right be done, and punishment inflicted, as there shall be occasion, according to the Laws of the Kingdom, and the Trust re<g ref="char:EOLhyphen"/>posed in us.</p>
+            <pb n="7" facs="tcp:39057:5"/>
+            <p> And in your late Declarations of the ninth of <hi>Feb.</hi> 1648. and the seventeenth of <hi>March</hi> 1648. you declare you will main<g ref="char:EOLhyphen"/>tain the good old Laws and Customs of <hi>England,</hi> the Badges of our Freedom; The benefit whereof our Ancestors enjoyed long before the Conquest, and particularly the Great Char<g ref="char:EOLhyphen"/>ter of Liberties; and that excellent Law (as your selves call it) of the Petition of Right, with all things therein contai<g ref="char:EOLhyphen"/>ned, incident and belonging to the preservation of the Lives, Proprieties, and Liberties of the People; which you there ac<g ref="char:EOLhyphen"/>knowledge, being duely executed, are the most just, free, and equal of any other Laws in the world. And for the violating of the priviledges; of which <hi>Empson</hi> and <hi>Dudley,</hi> Privy Coun<g ref="char:EOLhyphen"/>cellors to <hi>Henry</hi> 7. for taking away mens Estates, and Pro<g ref="char:EOLhyphen"/>prieties, by their wills and discretions, without Tryals by Juries, Although they had an Act of Parliament (<hi>viz.</hi> the 11. <hi>Henry</hi> 7. Chap. 3. to warrant them for their so doing) lost their heads and lives upon Tower-hill, as Traitors, for sub<g ref="char:EOLhyphen"/>verting the Fundamental Laws and Liberties of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>The premises seriously and duely considered, and in that in your Declaration of the</hi> 17. January. 1644. 1. Part Book Declar. pag. 39. <hi>in the Case of the Five Members, against whom Sir</hi> Wil. Killegrew <hi>was a violent Actor (as by that Declaration appears) You have declared, that you are very sensible, that it equally imports you aswell to see Justice done against them that are Criminous, as to defend the just Rights and Liberties of the Subjects, and Parliament of</hi> England: <hi>And in your Declaration of the 23 of</hi> Octob. 1642. 1. Part Book Dec. pa. 656. <hi>You declare, that the Execution of Justice is the Soul and Life of all Laws. Your Petitioners therefore humbly pray, That the said Pro<g ref="char:EOLhyphen"/>jecting and Propriety-destroying Sir</hi> Wil. Killegrew, <hi>with all his Participants, may (for the vindicating of the pub<g ref="char:EOLhyphen"/>lique Justice of the Nation, and for the exemplary deterring of all other in future time to walk in his Arbitrary, Prero<g ref="char:EOLhyphen"/>gative Law, and Liberty-destroying steps) be speedily and effectually proceeded against, both as to Life and Estate, for his aforesaid Crimes, committed against the Comman Liber<g ref="char:EOLhyphen"/>ty, Peace, and Tranquility of the Nation, to the utmost extent of any Law in being before his said transgressions.
+<pb n="8" facs="tcp:39057:6"/>And more particularly, that all Differences betwixt him, &amp;c. and your Petitioners, or any other of their Associates, may be wholly and totally turned over, and left to the ordi<g ref="char:EOLhyphen"/>nary and due Course of the Common Law, in the Ordina<g ref="char:EOLhyphen"/>ry Courts of Justice, the proper and sole Administrators and Executors of the Law; That so we may thereby, without interruption, maintain our undoubted Inheritances, and proprieties, and legally recover our just Satisfaction and Re<g ref="char:EOLhyphen"/>parations, from him, &amp;c. For all his, and their oppressions, murders, and violences committed upon us, and our associ<g ref="char:EOLhyphen"/>ates: It being (in our weak judgements) then, and onely then proper for him, by the Law of</hi> England <hi>now in be<g ref="char:EOLhyphen"/>ing, to appeal to the Parliament, after Tryals at the Com<g ref="char:EOLhyphen"/>mon Law, and his Conceptions of injustice done him there, which is cleer by the Statutes of the 27 of</hi> Elizab. Cha. 8. <hi>and</hi> 31. Eliz. c. 1. <hi>and the Lord</hi> Cooks Plea, fol. 2.24.37. <hi>And that we may be inabled to scoure, cleanse, wyden, and repair our ancient Rivers, Sewers, Drayns, Goats, Sluces, and Clowes, which will sufficiently keep dry our said Fenns: In the perfecting of which work, we have these 60 years, been interrupted and hindred, by that Court-project of Ʋndertaking.</hi>
+            </p>
+            <closer>
+               <signed>And your Petitioners shall ever pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <opener>
+               <salute>To the Right Honorable the Supreame Authority of the COMMONS of <hi>England,</hi> Assembled in PARLIAMENT.</salute>
+            </opener>
+            <head>The humble Petition of the Inhabitants of <hi>Kirton, Frampton, Skirbeck<g ref="char:EOLhyphen"/>quarter, Wiberton, Alderkirk, Fosdike, Sutterton, Brothertofte, West-Boston, Swinehead,</hi> and <hi>Wigtoft,</hi> Commoners in <hi>Holland</hi> Fenns, <hi>alias</hi> the eight hundred Fenn in the County of <hi>Lincoln.</hi>
+            </head>
+            <p>SHEWETH,</p>
+            <p>THat in the said Parts of <hi>Holland</hi> and County of <hi>Lincoln,</hi> there is a great Common Fenn called <hi>Holland</hi> Fenn <hi>alias</hi> the eight hundred Fenn, conteining about one and twenty thousand Acres; within which your Petiti<g ref="char:EOLhyphen"/>oners and all others possessed of any ancient Messuage, Cot<g ref="char:EOLhyphen"/>tage, or Toftstead, within all or any of the eleven populous
+<pb n="9" facs="tcp:39057:6"/>Towns abovesaid, have by prescription, time out of minde, peaceably without eviction or disturbance, had and enjoyed Common of pasture for themselves, their Tenants; and Far<g ref="char:EOLhyphen"/>mers, for all and all manner their own Cattel respectively, together with common of <hi>Turbary,</hi> and other Liberties, du<g ref="char:EOLhyphen"/>ring their respective residences in their Messuages, Cottages, or Toftsteads, as belonging and rightly appertaining to the same: Until of late years, some of your Petitioners were most injuriously vexed, aswell by unjust suits of Law, as by other illegal and tyrannical usurpations, promoted and pro<g ref="char:EOLhyphen"/>secuted in the name of the late King, by several undertakers, who were likewise Commissioners, all or most of them men not onely of ill affected spirits, but in these late Wars, open and violent oppugnors of the just priviledges, undoubted im<g ref="char:EOLhyphen"/>munities and common peace of this Nation; one while pre<g ref="char:EOLhyphen"/>tending the Kings Title to the said Fenns, when as in truth no such ever was or could be made appear: And otherwhiles by new Commissioners of Sewers, illegally procured, and as illegally executed, without inquision, verdict of Jurors, or other legal means; declaring a great part of the said Fenns to be hurtfully surrounded, assessing unnecesary and intolera<g ref="char:EOLhyphen"/>ble taxes for its draining: And in default of payment thereof, decrecing away from your Petitioners, and the rest of the Commissioners, eight thousand Acres of the said Fenn, worth fourscore thousand pounds at the least, at such a time when your Petitioners Cattel there depasturing, were ready to pe<g ref="char:EOLhyphen"/>rish for lack of water: Against all such which and other un<g ref="char:EOLhyphen"/>paralleld oppressive proceedings, not onely imprisoning and fining the persons of divers of your Petitioners, upon their humble, peaceable, and legal implorements of Justice, at large specified in a Petition formerly presented to your Ho<g ref="char:EOLhyphen"/>norable House, now remaining in the hands of <hi>William Ellis</hi> Esquire, then Chairman to the Committee for these affairs. Your Petitioners, though to their great trouble and charge, have not onely lawfully defended themselves, but hitherto have and still do maintain their possession and right in the said Fenns, in such sort as their Ancestors for many hundred of years past have injoyed the same. Yet taking notice, that the said undertakers, notorious and declared enemies of the good and peace of this Common-wealth, by new contri<g ref="char:EOLhyphen"/>vences
+<pb n="10" facs="tcp:39057:7"/>promote their old corrupt interests; Your Petiti<g ref="char:EOLhyphen"/>oner<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aswell in conformity to your first Remonstrance of the State of the Kingdom, wherein your selves lay it down as a grievance, that large quantities of Commons have been taken from the Subjects, by colour of the Statute of improve<g ref="char:EOLhyphen"/>ment, and abuse of the Commission of Sewers, without their consents and against it; as in defence of their own just Pro<g ref="char:EOLhyphen"/>prieties, cannot but take themselves bound, as to protest a<g ref="char:EOLhyphen"/>gainst their horrid and long since exploded undertaking, So to remonstrate to your Honors, that the said eight hun<g ref="char:EOLhyphen"/>dred Fenn is, and time whereof the memory of man is not to the contrary, was a firme soyl apt for depasturing all manner of Cattel, most part of the year: By the commodi<g ref="char:EOLhyphen"/>tie of which many thousands with their families, have been and are incouraged to reside amongst us, the fruit of whose cordial affections, cheerful assistance and liberal contributi<g ref="char:EOLhyphen"/>ons in these late unhappy differences, the Parliament and Na<g ref="char:EOLhyphen"/>tion have been no ordinary participants. Upon all which,</p>
+            <closer>
+               <signed>Your Petitioners humbly implore your Honors to own your many De<g ref="char:EOLhyphen"/>clarations and Votes, against destroying Propriette, by unjust and arbitrary proceedings, and particularly in this case of illegal draining: And that your Petitioners for the vindication of the publique Justice of the Nation, according to your former Decla<g ref="char:EOLhyphen"/>rations and Votes, may be freed from those Projectors and Proprie<g ref="char:EOLhyphen"/>tie destroyers; and that all differences betwixt them and the un<g ref="char:EOLhyphen"/>dertakers, or any of their associates, may be wholly and totally left to the ordinary and due course of the Common Law in ordina<g ref="char:EOLhyphen"/>ry Courts of Justice, that we may at a reasonable charge main<g ref="char:EOLhyphen"/>tain our undoubted Inheritances and Proprieties, and recover our just Satisfactions for injuries done; which will ease your Honors of much trouble, and put both them and us into wayes of Trials for their pretended, and our just Rights: And that those horrid and publique enemies of our Country, may not he protected by your Ho<g ref="char:EOLhyphen"/>nors, whose destruction they have contrived, and vigorously en<g ref="char:EOLhyphen"/>deavoured; but that they may be brought to concigne punishment according to the Laws of this Nation; that others may be deter<g ref="char:EOLhyphen"/>red from treading in their steps; and your Petitioners have cause to acknowledge your Honors the true Patrons of their just Rights and Proprieties.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
